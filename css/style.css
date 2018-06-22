@@ -62,7 +62,7 @@ main {
 
 .btn {
     padding: 0.5rem 2rem;
-    border: 1px #48545f solid;
+    border: 1px #818e9b solid;
     display: inline-block;
     margin: 2rem 0 0;
     border-radius: 50px;
@@ -72,13 +72,13 @@ main {
 }
 
 .btn:hover {
-    background: #48545f;
+    background: #818e9b;
 }
 
 #header {
     padding: 1.5rem;
     text-align: center;
-    background: #333;
+    background: #182027;
     color: #fff;
 }
 
