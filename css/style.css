@@ -2,7 +2,7 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
-    background: #eee;
+    background: #e2e7ec;
     height: auto;
 }
 
@@ -47,7 +47,7 @@ main {
 }
 
 #landing-text h2 {
-    color: #888;
+    color: #818e9b;
 }
 
 #landing-image {
@@ -62,7 +62,7 @@ main {
 
 .btn {
     padding: 0.5rem 2rem;
-    border: 1px #ccc solid;
+    border: 1px #48545f solid;
     display: inline-block;
     margin: 2rem 0 0;
     border-radius: 50px;
@@ -72,7 +72,7 @@ main {
 }
 
 .btn:hover {
-    background: #f4f4f4;
+    background: #48545f;
 }
 
 #header {
